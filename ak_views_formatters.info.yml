@@ -1,0 +1,7 @@
+name: Views reference formatters
+description: 'Provides an additional formatters for displaying Views.'
+type: module
+package: Demo
+core: 8.x
+dependencies:
+  - views
